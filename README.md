@@ -7,3 +7,5 @@ SECOND
 In this approach we click on all the upgrades in reverse order 5 times each after every 5 seconds.
 
 We do this for 5 minutes and then Check the cookies per second.
+![Screenshot (75)](https://github.com/binscodingbay/cookie_craker/assets/125781996/c489c75c-a06c-4fe4-93b1-120ae4d9ae56)
+
